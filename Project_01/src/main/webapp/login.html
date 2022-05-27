@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="navbar.css">
+</head>
+<style>
+
+</style>
+<body>
+<div class="topnav">
+    <a href="index.html">Home</a>
+
+    <a class="active" href="login.html">Login</a> |
+
+    <a href="LogoutServlet">Logout</a> |
+
+    <a href="ProfileServlet">Profile</a> |
+</div>
+<form action="LoginServlet" method="post">
+    <div>
+        <label>Username</label>
+        <input type="text" name="username" placeholder="Enter Username">
+    </div>
+    <div>
+        <label>Password</label>
+        <input type="password" name="password" placeholder="Enter Password">
+    </div>
+    <input type="submit" value="Login" />
+
+</form>
+
+</body>
+</html>
