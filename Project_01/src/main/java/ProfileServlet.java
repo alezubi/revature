@@ -11,7 +11,7 @@ public class ProfileServlet extends HttpServlet {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
 
-        request.getRequestDispatcher("navbar_profile.html").include(request, response);//
+        request.getRequestDispatcher("navbar.html").include(request, response);//
 
         Cookie[] cookies = request.getCookies();
         if (cookies != null) {

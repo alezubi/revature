@@ -12,7 +12,7 @@ public class LogoutServlet extends HttpServlet {
 
         PrintWriter out = response.getWriter();
 
-        request.getRequestDispatcher("navbar_logout.html").include(request, response);
+        request.getRequestDispatcher("navbar.html").include(request, response);
 
         Cookie cookie = new Cookie("username", "");
         response.addCookie(cookie);
