@@ -58,12 +58,12 @@ employees.add(employee);
 
     @Override
      public boolean  addEmployee(Employee employee) throws SQLException {
-        String sql = " insert into employee (name, email, password, receipt_type) values (? , ? , ? , ?)";
+        String sql = " insert into employee (name, email, password) values (? , ? , ?)";
         PreparedStatement preparedStatement = connection.prepareStatement(sql);
         preparedStatement.setString(1, employee.getName());
         preparedStatement.setString(2, employee.getEmail());
         preparedStatement.setString(3, employee.getPassword());
-        preparedStatement.setString(4, employee.getReceipt_type());
+
 
         int count = preparedStatement.executeUpdate();
         if(count > 0 ) {
@@ -279,6 +279,48 @@ employees.add(employee);
             employee.setAmount(resultSet.getInt("amount"));
         }
         return employee;
+    }
+
+    @Override
+    public  Employee  getPendingHistory(Employee employee) throws SQLException{
+
+        String sql = "select * from employee where status='pending' and id=?";
+        PreparedStatement preparedStatement = connection.prepareStatement(sql);
+        preparedStatement.setString(1, String.valueOf(employee.getId()));
+
+        ResultSet resultSet = preparedStatement.executeQuery();
+        while ( resultSet.next()){
+
+            employee.setId(resultSet.getInt(1));
+            employee.setName(resultSet.getString(3));
+            employee.setReceipt_type(resultSet.getString(5));
+            employee.setStatus(resultSet.getString(6));
+            employee.setAmount(resultSet.getInt(7));
+
+        }
+        return employee;
+
+    }
+
+    @Override
+    public  Employee  getApprovedHistory(Employee employee) throws SQLException{
+
+        String sql = "select * from employee where status='approved' and id=?";
+        PreparedStatement preparedStatement = connection.prepareStatement(sql);
+        preparedStatement.setString(1, String.valueOf(employee.getId()));
+
+        ResultSet resultSet = preparedStatement.executeQuery();
+        while ( resultSet.next()){
+
+            employee.setId(resultSet.getInt(1));
+            employee.setName(resultSet.getString(3));
+            employee.setReceipt_type(resultSet.getString(5));
+            employee.setStatus(resultSet.getString(6));
+            employee.setAmount(resultSet.getInt(7));
+
+        }
+        return employee;
+
     }
 
 

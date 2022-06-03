@@ -154,8 +154,6 @@
         <url-pattern>/ViewEmployeeOnly</url-pattern>
     </servlet-mapping>
 
-    ViewEmployeeOnlyRequest
-
     <servlet>
         <servlet-name>ViewEmployeeOnlyRequest</servlet-name>
         <servlet-class>servlets.ViewEmployeeOnlyRequest</servlet-class>
@@ -165,5 +163,27 @@
         <servlet-name>ViewEmployeeOnlyRequest</servlet-name>
         <url-pattern>/ViewEmployeeOnlyRequest</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>PendingHistory</servlet-name>
+        <servlet-class>servlets.PendingHistory</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>PendingHistory</servlet-name>
+        <url-pattern>/PendingHistory</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ApprovedHistory</servlet-name>
+        <servlet-class>servlets.ApprovedHistory</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ApprovedHistory</servlet-name>
+        <url-pattern>/ApprovedHistory</url-pattern>
+    </servlet-mapping>
+
+
 
 </web-app>

@@ -24,14 +24,14 @@ public class EmployeeAdd extends HttpServlet {
         String name = request.getParameter("name");
         String email = request.getParameter("email");
         String password = request.getParameter("password");
-        String receipt_type = request.getParameter("receipt_type");
+
 
 
         Employee employee = new Employee();
         employee.setName(name);
         employee.setEmail(email);
         employee.setPassword(password);
-        employee.setReceipt_type(receipt_type);
+
 
         System.out.println(employee.getEmail()+employee.getName()+employee.getPassword()+employee.getReceipt_type());
 

@@ -22,7 +22,8 @@ boolean SubmitRequest (Employee employee)throws SQLException;
 Employee login(Employee employee) throws SQLException;
 boolean addRequest(Employee employee) throws SQLException;
 
+Employee  getPendingHistory(Employee employee) throws SQLException;
 
-
+Employee  getApprovedHistory(Employee employee) throws SQLException;
  Employee getEmployee(Employee employee) throws SQLException;
 }

@@ -1,0 +1,55 @@
+
+THESE ARE MY SQL TABLES (bank.customer,bank.employee,bank.account,bank.transaction)
+
+CREATE TABLE bank.customer (
+	customer_id serial NOT NULL,
+	first_name varchar(50) NOT NULL,
+	last_name varchar(50) NOT NULL,
+	gender varchar(50) NOT NULL,
+	address varchar(50) NOT NULL,
+	phone integer NOT NULL,
+	email varchar(50) NOT NULL,
+	password varchar(50) NOT NULL,
+	status text varchar(50), 
+	CONSTRAINT customer_pk PRIMARY KEY (customer_id),
+	CONSTRAINT customer_un UNIQUE (email)
+);
+
+CREATE TABLE bank.employee (
+	employee_id serial NOT NULL,
+	first_name varchar(50) NOT NULL,
+	last_name varchar(50) NOT NULL,
+	email varchar(50) NOT NULL,
+	password varchar(50) NOT NULL,
+	CONSTRAINT employee_pk PRIMARY KEY (employee_id),
+	CONSTRAINT employee_un UNIQUE (email)
+);
+
+CREATE TABLE bank.account (
+	account_id integer NOT NULL,
+	customer_id integer NOT NULL,
+	account_type varchar(50),
+	balance float,
+	CONSTRAINT account_pk PRIMARY KEY (account_id)
+);
+
+bank.account foreign keys (a column or group of columns in a relational database table that provides a link between data in two tables)
+
+ALTER TABLE bank.account ADD CONSTRAINT account_fk FOREIGN KEY (customer_id) REFERENCES bank.customer(customer_id);
+
+CREATE TABLE bank.transaction (
+	transaction_id serial NOT NULL,
+	account_id integer NOT NULL,
+	customer_id integer NOT NULL,
+	date text NOT NULL,
+	description varchar(50) NOT NULL,
+	type varchar(50) NOT NULL,
+	amount float NOT NULL,
+	balance float NOT NULL,
+	CONSTRAINT transaction_pk PRIMARY KEY (transaction_id)
+);
+
+
+-- bank.transaction foreign keys
+
+ALTER TABLE bank.transaction ADD CONSTRAINT transaction_fk FOREIGN KEY (account_id) REFERENCES bank.account(account_id);

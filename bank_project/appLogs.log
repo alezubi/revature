@@ -1,0 +1,1713 @@
+{INFO}	16-05-2022 Monday EDT 12:11:15	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:11:25	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:11:43	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:11:47	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:11:49	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:11:52	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 12:11:58	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 12:12:04	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:12:12	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	16-05-2022 Monday EDT 12:12:16	consoleLog.MenuOptions	Internal error occured contact SYSADMIN            
+{INFO}	16-05-2022 Monday EDT 12:18:38	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:18:40	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:18:42	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:18:44	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 12:18:48	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 12:18:55	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:19:01	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	16-05-2022 Monday EDT 12:19:04	consoleLog.MenuOptions	Internal error occured contact SYSADMIN            
+{INFO}	16-05-2022 Monday EDT 12:32:19	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:32:21	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:32:24	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:32:25	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 12:32:32	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 12:32:35	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:32:46	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	16-05-2022 Monday EDT 12:32:49	consoleLog.MenuOptions	Internal error occured contact SYSADMIN            
+{INFO}	16-05-2022 Monday EDT 12:34:51	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:34:54	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:34:55	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:34:56	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 12:35:02	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 12:35:06	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:35:10	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:35:14	consoleLog.MenuOptions	Registration Successful. Your status is pending until an employee approves you
+ 
+{INFO}	16-05-2022 Monday EDT 12:38:15	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:38:21	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:38:23	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:38:25	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 12:38:33	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 12:38:38	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:38:44	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:38:49	consoleLog.MenuOptions	Registration Successful. Your status is pending until an employee approves you
+ 
+{INFO}	16-05-2022 Monday EDT 12:40:11	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:40:11	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:40:17	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:40:35	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 12:40:46	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	16-05-2022 Monday EDT 12:40:57	consoleLog.MenuOptions	Log in Failed, enter a correct email and password  
+{INFO}	16-05-2022 Monday EDT 12:45:56	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 12:46:04	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:46:09	consoleLog.MenuOptions	
+Welcome Alejandro Zubillaga here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 12:46:09	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:46:09	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:46:09	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:46:09	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:46:09	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:46:09	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	
+
+Found 2 customers in DB.... Printing them all    
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=pending] 
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=pending] 
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:46:15	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:46:29	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	16-05-2022 Monday EDT 12:46:36	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	16-05-2022 Monday EDT 12:46:41	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	16-05-2022 Monday EDT 12:46:41	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:46:41	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:46:41	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:46:41	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:46:41	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:46:41	consoleLog.MenuOptions	5)EXIT
+                                            
+{ERROR}	16-05-2022 Monday EDT 12:46:46	consoleLog.MenuOptions	No Customer in Chase Bank DB so far                
+{INFO}	16-05-2022 Monday EDT 12:46:46	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:46:46	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:46:46	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:46:46	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:46:46	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:46:46	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:47:13	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	16-05-2022 Monday EDT 12:47:14	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	16-05-2022 Monday EDT 12:47:19	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	16-05-2022 Monday EDT 12:47:19	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:47:19	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:47:19	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:47:19	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:47:19	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:47:19	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	
+
+Found 2 customers in DB.... Printing them all    
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=pending] 
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:47:23	consoleLog.MenuOptions	5)EXIT
+                                            
+{ERROR}	16-05-2022 Monday EDT 12:47:32	consoleLog.MenuOptions	No Customer in Chase Bank DB so far                
+{INFO}	16-05-2022 Monday EDT 12:47:32	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:47:32	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:47:32	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:47:32	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:47:32	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:47:32	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:49:31	consoleLog.MenuOptions	Enter The Customer Email You Are Searching:        
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	
+Customer with the email alejandro.zubillaga@hotmail.com was found. 
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	
+Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:49:37	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:51:28	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 12:51:28	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:51:33	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:51:41	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	
+Welcome Alejandro  here is your info:             
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	
+Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 12:51:46	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:51:52	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 12:51:57	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	16-05-2022 Monday EDT 12:52:06	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	16-05-2022 Monday EDT 12:52:11	consoleLog.MenuOptions	Choose an initial Deposit Ammount                  
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	Checking account created successfully with a balance of 1000.0
+ 
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 12:52:15	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:52:24	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 12:52:24	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:52:38	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:52:50	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:53:00	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:53:04	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 12:53:13	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 12:53:19	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:53:25	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:53:30	consoleLog.MenuOptions	Registration Successful. Your status is pending until an employee approves you
+ 
+{INFO}	16-05-2022 Monday EDT 12:54:00	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:54:05	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	16-05-2022 Monday EDT 12:54:08	consoleLog.MenuOptions	You either entered a wrong email or password, or your registration is pending 
+{INFO}	16-05-2022 Monday EDT 12:54:50	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 12:55:02	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:55:05	consoleLog.MenuOptions	
+Welcome Alejandro Zubillaga here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 12:55:05	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:55:05	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:55:05	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:55:05	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:55:05	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:55:05	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:55:08	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	16-05-2022 Monday EDT 12:55:13	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	16-05-2022 Monday EDT 12:55:18	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	16-05-2022 Monday EDT 12:55:18	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:55:18	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:55:18	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:55:18	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:55:18	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:55:18	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:55:23	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 12:55:23	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:55:26	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:55:32	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	
+Welcome Revature here is your info:               
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	
+Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 12:55:37	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:55:39	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 12:55:41	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	16-05-2022 Monday EDT 12:55:45	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	16-05-2022 Monday EDT 12:55:49	consoleLog.MenuOptions	Choose an initial Deposit Ammount                  
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	Checking account created successfully with a balance of 1000.0
+ 
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 12:55:52	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:55:58	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 12:56:07	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	16-05-2022 Monday EDT 12:56:09	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	16-05-2022 Monday EDT 12:56:14	consoleLog.MenuOptions	Choose an initial Deposit Ammount                  
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	Savings account created successfully with a balance of 1000.0
+ 
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 12:56:17	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:56:21	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 12:56:21	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:56:23	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:56:37	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	
+Welcome Revature here is your info:               
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	
+Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 12:56:42	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:56:47	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 12:56:47	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:56:49	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:57:04	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:57:08	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:57:09	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 12:57:15	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 12:57:21	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:57:36	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	16-05-2022 Monday EDT 12:57:42	consoleLog.MenuOptions	Internal error occured contact SYSADMIN            
+{INFO}	16-05-2022 Monday EDT 12:57:48	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 12:57:52	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 12:57:56	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 12:57:58	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 12:58:07	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 12:58:11	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:58:17	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:58:22	consoleLog.MenuOptions	Registration Successful. Your status is pending until an employee approves you
+ 
+{INFO}	16-05-2022 Monday EDT 12:58:27	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 12:58:45	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 12:58:49	consoleLog.MenuOptions	
+Welcome Alejandro Zubillaga here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 12:58:49	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:58:49	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:58:49	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:58:49	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:58:49	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:58:49	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:58:52	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	16-05-2022 Monday EDT 12:58:53	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	16-05-2022 Monday EDT 12:58:57	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	16-05-2022 Monday EDT 12:58:57	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 12:58:57	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 12:58:57	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 12:58:57	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 12:58:57	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 12:58:57	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 12:58:59	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 12:58:59	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 12:59:02	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:59:26	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	16-05-2022 Monday EDT 12:59:31	consoleLog.MenuOptions	You either entered a wrong email or password, or your registration is pending 
+{INFO}	16-05-2022 Monday EDT 12:59:35	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 12:59:44	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	16-05-2022 Monday EDT 12:59:46	consoleLog.MenuOptions	You either entered a wrong email or password, or your registration is pending 
+{INFO}	16-05-2022 Monday EDT 13:00:12	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 13:00:23	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 13:00:28	consoleLog.MenuOptions	
+Welcome Alejandro Zubillaga here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 13:00:28	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:00:28	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 13:00:28	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 13:00:28	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 13:00:28	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 13:00:28	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 13:00:30	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	16-05-2022 Monday EDT 13:00:31	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	16-05-2022 Monday EDT 13:00:33	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	16-05-2022 Monday EDT 13:00:33	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:00:33	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 13:00:33	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 13:00:33	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 13:00:33	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 13:00:33	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 13:00:36	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 13:00:36	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:00:37	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 13:00:47	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	
+Welcome Revature here is your info:               
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	
+Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:00:52	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:00:53	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 13:01:13	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	16-05-2022 Monday EDT 13:01:19	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	16-05-2022 Monday EDT 13:01:25	consoleLog.MenuOptions	Choose an initial Deposit Ammount                  
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	Checking account created successfully with a balance of 1000.0
+ 
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:01:28	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:01:34	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 13:11:34	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 13:11:36	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 13:11:39	consoleLog.MenuOptions	
+Welcome Admin Revature here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 13:11:39	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:11:39	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 13:11:39	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 13:11:39	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 13:11:39	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 13:11:39	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	
+
+Found 4 customers in DB.... Printing them all    
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=pending] 
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 13:11:41	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 13:11:57	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 13:11:57	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:54:26	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 13:54:35	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	
+Welcome Revature here is your info:               
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	
+Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:54:39	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:54:45	consoleLog.MenuOptions	What is the Account ID?                            
+{ERROR}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	No account found with id: 3                        
+{INFO}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:55:38	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:55:44	consoleLog.MenuOptions	What is the Account ID?                            
+{ERROR}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	No account found with id: 5                        
+{INFO}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:55:45	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:55:56	consoleLog.MenuOptions	What is the Account ID?                            
+{ERROR}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	No account found with id: 1                        
+{INFO}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:55:57	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:56:02	consoleLog.MenuOptions	What is the Account ID?                            
+{ERROR}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	No account found with id: 2                        
+{INFO}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:56:03	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:56:09	consoleLog.MenuOptions	What is the Account ID?                            
+{ERROR}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	No account found with id: 5                        
+{INFO}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:56:10	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	What is the Account ID?                            
+{ERROR}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	No account found with id: 3                        
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:56:17	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:56:23	consoleLog.MenuOptions	What is the Account ID?                            
+{ERROR}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	No account found with id: 5                        
+{INFO}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:56:25	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:56:39	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 13:57:28	consoleLog.MenuOptions	How much would you like to withdraw                
+{ERROR}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	No bank account with account id: 5                 
+{INFO}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:57:34	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:57:41	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 13:57:41	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:57:45	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	16-05-2022 Monday EDT 13:57:58	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	16-05-2022 Monday EDT 13:58:02	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	16-05-2022 Monday EDT 13:58:04	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	16-05-2022 Monday EDT 13:58:09	consoleLog.MenuOptions	Enter Your Phone# 8005551234:                      
+{INFO}	16-05-2022 Monday EDT 13:58:15	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 13:58:22	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 13:58:26	consoleLog.MenuOptions	Registration Successful. Your status is pending until an employee approves you
+ 
+{INFO}	16-05-2022 Monday EDT 13:58:29	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 13:58:31	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 13:58:34	consoleLog.MenuOptions	
+Welcome Admin Revature here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 13:58:34	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:58:34	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 13:58:34	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 13:58:34	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 13:58:34	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 13:58:34	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 13:58:35	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	16-05-2022 Monday EDT 13:58:39	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	16-05-2022 Monday EDT 13:58:42	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	16-05-2022 Monday EDT 13:58:42	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:58:42	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 13:58:42	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 13:58:42	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 13:58:42	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 13:58:42	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 13:58:46	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 13:58:46	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:58:49	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 13:58:50	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 13:58:52	consoleLog.MenuOptions	
+Welcome Admin Revature here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 13:58:52	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:58:52	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 13:58:52	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 13:58:52	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 13:58:52	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 13:58:52	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	
+
+Found 4 bank accounts in DB.... Printing them all 
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	Account [account_id=1000, customer_id=3, account_type=Checking, balance=1000.0] 
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	Account [account_id=18363439, customer_id=1, account_type=Checking, balance=1000.0] 
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	Account [account_id=28736462, customer_id=5, account_type=Checking, balance=1000.0] 
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	Account [account_id=238334545, customer_id=3, account_type=Savings, balance=1000.0] 
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 13:58:54	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 13:59:07	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 13:59:07	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:59:10	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 13:59:16	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:59:19	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:59:22	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 13:59:28	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	16-05-2022 Monday EDT 13:59:30	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	16-05-2022 Monday EDT 13:59:33	consoleLog.MenuOptions	Choose an initial Deposit Ammount                  
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	Savings account created successfully with a balance of 500.0
+ 
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:59:36	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:59:39	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 13:59:40	consoleLog.MenuOptions	How much would you like to withdraw                
+{INFO}	16-05-2022 Monday EDT 13:59:43	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:59:43	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:59:43	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:59:43	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:59:43	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:59:43	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:59:43	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:59:43	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:59:47	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	
+Your balance is: $250.0                           
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 13:59:49	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:00:00	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 14:00:02	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	16-05-2022 Monday EDT 14:00:04	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:00:04	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:00:04	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:00:04	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:00:04	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:00:04	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:00:04	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:00:04	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:00:12	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 14:00:13	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	16-05-2022 Monday EDT 14:00:29	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 14:00:35	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:00:41	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:00:43	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 14:00:45	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	16-05-2022 Monday EDT 14:00:47	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	16-05-2022 Monday EDT 14:00:51	consoleLog.MenuOptions	Choose an initial Deposit Ammount                  
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	Checking account created successfully with a balance of 750.0
+ 
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:00:56	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:01:01	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	16-05-2022 Monday EDT 14:01:05	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	16-05-2022 Monday EDT 14:01:11	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:01:11	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:01:11	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:01:11	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:01:11	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:01:11	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:01:11	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:01:11	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:01:16	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	
+Your balance is: $850.0                           
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:01:19	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:01:21	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	
+Your balance is: $500.0                           
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:01:22	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:01:26	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 14:01:26	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:01:30	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 14:01:35	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 14:01:36	consoleLog.MenuOptions	
+Welcome Admin Revature here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 14:01:36	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:01:36	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 14:01:36	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 14:01:36	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 14:01:36	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 14:01:36	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 14:04:18	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 14:04:18	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:04:20	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	16-05-2022 Monday EDT 14:04:25	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 14:04:27	consoleLog.MenuOptions	
+Welcome Admin Revature here are your task for the day 
+{INFO}	16-05-2022 Monday EDT 14:04:27	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:04:27	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 14:04:27	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 14:04:27	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 14:04:27	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 14:04:27	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	
+
+Found 5 customers in DB.... Printing them all    
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=pending] 
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 14:04:39	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 14:04:51	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	16-05-2022 Monday EDT 14:05:09	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	16-05-2022 Monday EDT 14:05:13	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	16-05-2022 Monday EDT 14:05:13	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:05:13	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 14:05:13	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 14:05:13	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 14:05:13	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 14:05:13	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	
+
+Found 5 customers in DB.... Printing them all    
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=denied] 
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	16-05-2022 Monday EDT 14:05:21	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	16-05-2022 Monday EDT 14:05:30	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 14:05:30	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:05:33	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	16-05-2022 Monday EDT 14:05:38	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:05:41	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:05:46	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	
+Your balance is: $500.0                           
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:05:47	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:05:52	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	
+Your balance is: $850.0                           
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	=======================                            
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	16-05-2022 Monday EDT 14:05:53	consoleLog.MenuOptions	                                                   
+{INFO}	16-05-2022 Monday EDT 14:05:57	consoleLog.MenuOptions	
+Thank You For Visiting Chase Bank, have a nice day!
+ 
+{INFO}	16-05-2022 Monday EDT 14:05:57	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 10:43:58	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 10:44:14	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	17-05-2022 Tuesday EDT 10:44:17	consoleLog.MenuOptions	You either entered a wrong email or password, or your registration is pending 
+{INFO}	17-05-2022 Tuesday EDT 10:44:25	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 10:44:28	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	17-05-2022 Tuesday EDT 10:44:31	consoleLog.MenuOptions	You either entered a wrong email or password, or your registration is pending 
+{INFO}	17-05-2022 Tuesday EDT 10:44:34	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 10:44:43	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	17-05-2022 Tuesday EDT 10:44:46	consoleLog.MenuOptions	You either entered a wrong email or password, or your registration is pending 
+{INFO}	17-05-2022 Tuesday EDT 10:46:02	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 10:46:14	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 10:46:16	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 10:46:21	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 10:46:24	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 10:47:23	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 10:47:23	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 10:47:23	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 10:47:23	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 10:47:23	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 10:47:23	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 10:47:23	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 10:47:23	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 10:47:27	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	
+Your balance is: $600.0                           
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 10:47:28	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 10:47:32	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 10:47:34	consoleLog.MenuOptions	How much would you like to withdraw                
+{INFO}	17-05-2022 Tuesday EDT 10:47:36	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 10:47:36	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 10:47:36	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 10:47:36	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 10:47:36	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 10:47:36	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 10:47:36	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 10:47:36	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 10:47:38	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	
+Your balance is: $500.0                           
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 10:47:39	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 12:59:06	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 12:59:12	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 12:59:17	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 12:59:51	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 12:59:52	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 12:59:54	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 12:59:54	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 12:59:54	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 12:59:54	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 12:59:54	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 12:59:54	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 12:59:54	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 12:59:54	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 12:59:56	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	
+Your balance is: $900.0                           
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 12:59:57	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:00:40	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 13:00:40	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:07:14	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 13:07:20	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 13:07:23	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:07:26	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 13:07:28	consoleLog.MenuOptions	How much would you like to withdraw                
+{INFO}	17-05-2022 Tuesday EDT 13:07:29	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 13:07:29	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:07:29	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 13:07:29	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 13:07:29	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 13:07:29	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 13:07:29	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 13:07:29	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:07:30	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	
+Your balance is: $800.0                           
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 13:07:31	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:07:39	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 13:07:39	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:10:10	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	17-05-2022 Tuesday EDT 13:10:14	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 13:10:17	consoleLog.MenuOptions	
+Welcome Admin Revature here are your task for the day 
+{INFO}	17-05-2022 Tuesday EDT 13:10:17	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:10:17	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 13:10:17	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 13:10:17	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 13:10:17	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 13:10:17	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	
+
+Found 5 customers in DB.... Printing them all    
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=denied] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 13:10:21	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	
+
+Found 6 bank accounts in DB.... Printing them all 
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	Account [account_id=1, customer_id=1, account_type=Savings, balance=500.0] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	Account [account_id=2, customer_id=2, account_type=Checking, balance=800.0] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	Account [account_id=1000, customer_id=3, account_type=Checking, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	Account [account_id=18363439, customer_id=1, account_type=Checking, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	Account [account_id=28736462, customer_id=5, account_type=Checking, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	Account [account_id=238334545, customer_id=3, account_type=Savings, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 13:10:29	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 13:10:42	consoleLog.MenuOptions	Enter The Customer Email You Are Searching:        
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	
+Customer with the email customer1@gmail.com was found. 
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 13:10:47	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 13:10:52	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	17-05-2022 Tuesday EDT 13:11:00	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	17-05-2022 Tuesday EDT 13:11:03	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	17-05-2022 Tuesday EDT 13:11:03	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:11:03	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 13:11:03	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 13:11:03	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 13:11:03	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 13:11:03	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	
+
+Found 5 customers in DB.... Printing them all    
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 13:11:04	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 13:11:13	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	17-05-2022 Tuesday EDT 13:11:14	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	17-05-2022 Tuesday EDT 13:11:16	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	17-05-2022 Tuesday EDT 13:11:16	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:11:16	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 13:11:16	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 13:11:16	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 13:11:16	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 13:11:16	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	
+
+Found 5 customers in DB.... Printing them all    
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=denied] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 13:11:20	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 13:18:16	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 13:18:21	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 13:18:27	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 13:18:29	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 13:18:29	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 14:47:52	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 14:47:59	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 14:48:05	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:00:32	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 15:00:32	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:09:37	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	17-05-2022 Tuesday EDT 15:09:55	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	17-05-2022 Tuesday EDT 15:10:06	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	17-05-2022 Tuesday EDT 15:10:16	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	17-05-2022 Tuesday EDT 15:10:21	consoleLog.MenuOptions	Enter Your Phone:                                  
+{INFO}	17-05-2022 Tuesday EDT 15:10:29	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 15:10:37	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 15:10:49	consoleLog.MenuOptions	Registration Successful. Your status is pending until an employee approves you
+ 
+{INFO}	17-05-2022 Tuesday EDT 15:10:59	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	17-05-2022 Tuesday EDT 15:11:05	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 15:11:07	consoleLog.MenuOptions	
+Welcome Admin Revature here are your task for the day 
+{INFO}	17-05-2022 Tuesday EDT 15:11:07	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:11:07	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 15:11:07	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 15:11:07	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 15:11:07	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 15:11:07	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	
+
+Found 6 customers in DB.... Printing them all    
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=denied] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	Customer [customer_id=7, first_name=customer4, last_name=customer4, gender=M, address=4106 AHDHR SJAHD , phone=8756234567, email=customer4@gmail.com, password=customer4, status=pending] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 15:11:15	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	
+
+Found 6 bank accounts in DB.... Printing them all 
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	Account [account_id=1, customer_id=1, account_type=Savings, balance=500.0] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	Account [account_id=2, customer_id=2, account_type=Checking, balance=800.0] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	Account [account_id=1000, customer_id=3, account_type=Checking, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	Account [account_id=18363439, customer_id=1, account_type=Checking, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	Account [account_id=28736462, customer_id=5, account_type=Checking, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	Account [account_id=238334545, customer_id=3, account_type=Savings, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 15:11:34	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 15:11:48	consoleLog.MenuOptions	Enter The Customer Email You Are Searching:        
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	
+Customer with the email customer4@gmail.com was found. 
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	
+Customer [customer_id=7, first_name=customer4, last_name=customer4, gender=M, address=4106 AHDHR SJAHD , phone=8756234567, email=customer4@gmail.com, password=customer4, status=pending] 
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 15:11:53	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 15:12:04	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	17-05-2022 Tuesday EDT 15:12:19	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	17-05-2022 Tuesday EDT 15:12:32	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	17-05-2022 Tuesday EDT 15:12:32	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:12:32	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 15:12:32	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 15:12:32	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 15:12:32	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 15:12:32	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 15:12:35	consoleLog.MenuOptions	Enter The Customer Email You Are Searching:        
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	
+Customer with the email customer4@gmail.com was found. 
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	
+Customer [customer_id=7, first_name=customer4, last_name=customer4, gender=M, address=4106 AHDHR SJAHD , phone=8756234567, email=customer4@gmail.com, password=customer4, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 15:12:40	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 15:12:46	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 15:12:46	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:12:48	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 15:12:53	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	
+Welcome customer4 here is your info:              
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	
+Customer [customer_id=7, first_name=customer4, last_name=customer4, gender=M, address=4106 AHDHR SJAHD , phone=8756234567, email=customer4@gmail.com, password=customer4, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 15:12:55	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:13:07	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 15:13:15	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	17-05-2022 Tuesday EDT 15:13:21	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	17-05-2022 Tuesday EDT 15:13:34	consoleLog.MenuOptions	Choose an initial Deposit Amount                   
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	Checking  account created successfully with a balance of 50.0
+ 
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 15:13:38	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:13:45	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 15:13:56	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 15:14:00	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 15:14:00	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:00	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 15:14:00	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 15:14:00	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 15:14:00	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 15:14:00	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 15:14:00	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:14:02	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	
+Your balance is: $75.0                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 15:14:06	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:14:10	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 15:14:12	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:14	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	17-05-2022 Tuesday EDT 15:14:16	consoleLog.MenuOptions	Choose an initial Deposit Amount                   
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	Saving account created successfully with a balance of 60.0
+ 
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 15:14:20	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:14:25	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 15:14:31	consoleLog.MenuOptions	How much would you like to withdraw                
+{INFO}	17-05-2022 Tuesday EDT 15:14:35	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 15:14:35	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:35	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 15:14:35	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 15:14:35	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 15:14:35	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 15:14:35	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 15:14:35	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:14:37	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	
+Your balance is: $30.0                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 15:14:41	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 15:14:47	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 15:14:47	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 17:39:32	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 17:39:37	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	
+Welcome Customer1 here is your info:              
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	
+Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 17:39:40	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 17:39:42	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 17:40:07	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 17:40:46	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 17:40:46	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 17:40:46	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 17:40:46	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 17:40:46	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 17:40:46	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 17:40:46	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 17:40:46	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 17:40:50	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	
+Your balance is: $1020.0                          
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 17:40:53	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 17:41:03	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 17:46:18	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 17:46:22	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 17:46:22	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 17:46:22	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 17:46:22	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 17:46:22	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 17:46:22	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 17:46:22	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 17:46:22	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 17:46:26	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 17:46:26	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 21:56:50	consoleLog.MenuOptions	Enter Your First Name:                             
+{INFO}	17-05-2022 Tuesday EDT 21:56:55	consoleLog.MenuOptions	Enter Your Last Name:                              
+{INFO}	17-05-2022 Tuesday EDT 21:56:59	consoleLog.MenuOptions	Enter Your gender: M or F                          
+{INFO}	17-05-2022 Tuesday EDT 21:57:01	consoleLog.MenuOptions	Enter Your Address:                                
+{INFO}	17-05-2022 Tuesday EDT 21:57:14	consoleLog.MenuOptions	Enter Your Phone:                                  
+{INFO}	17-05-2022 Tuesday EDT 21:57:20	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 21:57:41	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 21:57:51	consoleLog.MenuOptions	Registration Successful. Your status is pending until an employee approves you
+ 
+{INFO}	17-05-2022 Tuesday EDT 21:58:12	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	17-05-2022 Tuesday EDT 21:58:27	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 21:58:29	consoleLog.MenuOptions	
+Welcome Admin Revature here are your task for the day 
+{INFO}	17-05-2022 Tuesday EDT 21:58:29	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 21:58:29	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 21:58:29	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 21:58:29	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 21:58:29	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 21:58:29	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	
+
+Found 7 customers in DB.... Printing them all    
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=denied] 
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	Customer [customer_id=7, first_name=customer4, last_name=customer4, gender=M, address=4106 AHDHR SJAHD , phone=8756234567, email=customer4@gmail.com, password=customer4, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	Customer [customer_id=8, first_name=Maria Alejandra, last_name=Pena, gender=F, address=4124 Blue des fL , phone=6253862345, email=maleja_zubi@hotmail.com, password=maleja, status=pending] 
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 21:58:44	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	
+
+Found 8 bank accounts in DB.... Printing them all 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	Account [account_id=1, customer_id=1, account_type=Savings, balance=503.0] 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	Account [account_id=2, customer_id=2, account_type=Checking, balance=800.0] 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	Account [account_id=4, customer_id=7, account_type=Checking , balance=75.0] 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	Account [account_id=5, customer_id=7, account_type=Saving, balance=30.0] 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	Account [account_id=1000, customer_id=3, account_type=Checking, balance=1020.0] 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	Account [account_id=18363439, customer_id=1, account_type=Checking, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	Account [account_id=28736462, customer_id=5, account_type=Checking, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	Account [account_id=238334545, customer_id=3, account_type=Savings, balance=1000.0] 
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 21:59:34	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 22:00:21	consoleLog.MenuOptions	Enter The Customer Email You Are Searching:        
+{ERROR}	17-05-2022 Tuesday EDT 22:00:32	consoleLog.MenuOptions	No customer found with email: maleja_zubi@gmail.com 
+{INFO}	17-05-2022 Tuesday EDT 22:00:32	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:00:32	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 22:00:32	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 22:00:32	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 22:00:32	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 22:00:32	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 22:00:51	consoleLog.MenuOptions	Enter The Customer Email You Are Searching:        
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	
+Customer with the email maleja_zubi@hotmail.com was found. 
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	
+Customer [customer_id=8, first_name=Maria Alejandra, last_name=Pena, gender=F, address=4124 Blue des fL , phone=6253862345, email=maleja_zubi@hotmail.com, password=maleja, status=pending] 
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 22:01:04	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 22:01:23	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	17-05-2022 Tuesday EDT 22:01:27	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	17-05-2022 Tuesday EDT 22:01:42	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	17-05-2022 Tuesday EDT 22:01:42	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:01:42	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 22:01:42	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 22:01:42	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 22:01:42	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 22:01:42	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 22:01:44	consoleLog.MenuOptions	Enter The Customer Email You Are Searching:        
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	
+Customer with the email maleja_zubi@hotmail.com was found. 
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	
+Customer [customer_id=8, first_name=Maria Alejandra, last_name=Pena, gender=F, address=4124 Blue des fL , phone=6253862345, email=maleja_zubi@hotmail.com, password=maleja, status=denied] 
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 22:01:52	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 22:01:59	consoleLog.MenuOptions	Enter Customers Id#:                               
+{INFO}	17-05-2022 Tuesday EDT 22:02:32	consoleLog.MenuOptions	type: active or denied                             
+{INFO}	17-05-2022 Tuesday EDT 22:02:36	consoleLog.MenuOptions	Customer Registered                                
+{INFO}	17-05-2022 Tuesday EDT 22:02:36	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:02:36	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 22:02:36	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 22:02:36	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 22:02:36	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 22:02:36	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	
+
+Found 7 customers in DB.... Printing them all    
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	Customer [customer_id=1, first_name=Alejandro, last_name=Zubillaga, gender=M, address=4106 Orange Tree Court, phone=6274829484, email=a@gmail.com, password=ale123, status=denied] 
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	Customer [customer_id=2, first_name=Alejandro , last_name=Zubillaga, gender=M, address=4106 Orange Tree Court , phone=6315423623, email=alejandro.zubillaga@hotmail.com, password=Ale.zubi99, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	Customer [customer_id=3, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7361836474, email=revature@gmail.com, password=revature, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	Customer [customer_id=5, first_name=Revature, last_name=Trainee, gender=M, address=RevatureArea, phone=7462847352, email=revature2@gmail.com, password=revature2, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	Customer [customer_id=6, first_name=Customer1, last_name=Example, gender=M, address=customer1@gmail.com, phone=2836273748, email=customer1@gmail.com, password=customer1, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	Customer [customer_id=7, first_name=customer4, last_name=customer4, gender=M, address=4106 AHDHR SJAHD , phone=8756234567, email=customer4@gmail.com, password=customer4, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	Customer [customer_id=8, first_name=Maria Alejandra, last_name=Pena, gender=F, address=4124 Blue des fL , phone=6253862345, email=maleja_zubi@hotmail.com, password=maleja, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 22:02:38	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 22:02:45	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 22:02:45	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:02:49	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 22:03:00	consoleLog.MenuOptions	Enter Your Password:                               
+{ERROR}	17-05-2022 Tuesday EDT 22:03:04	consoleLog.MenuOptions	You either entered a wrong email or password, or your registration is pending 
+{INFO}	17-05-2022 Tuesday EDT 22:03:16	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 22:03:24	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	
+Welcome Maria Alejandra here is your info:        
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	
+Customer [customer_id=8, first_name=Maria Alejandra, last_name=Pena, gender=F, address=4124 Blue des fL , phone=6253862345, email=maleja_zubi@hotmail.com, password=maleja, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:03:26	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:03:46	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 22:04:49	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	17-05-2022 Tuesday EDT 22:05:10	consoleLog.MenuOptions	Enter Your Email:                                  
+{INFO}	17-05-2022 Tuesday EDT 22:05:19	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	
+Welcome Maria Alejandra here is your info:        
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	
+Customer [customer_id=8, first_name=Maria Alejandra, last_name=Pena, gender=F, address=4124 Blue des fL , phone=6253862345, email=maleja_zubi@hotmail.com, password=maleja, status=active] 
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:05:22	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:05:23	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 22:05:25	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	17-05-2022 Tuesday EDT 22:05:32	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	17-05-2022 Tuesday EDT 22:05:39	consoleLog.MenuOptions	Choose an initial Deposit Amount                   
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	Checking account created successfully with a balance of 50.0
+ 
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:05:42	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:05:47	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	
+Your balance is: $50.0                            
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:05:54	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:06:12	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 22:06:16	consoleLog.MenuOptions	How much would you like to withdraw                
+{INFO}	17-05-2022 Tuesday EDT 22:06:28	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:06:28	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:06:28	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:06:28	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:06:28	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:06:28	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:06:28	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:06:28	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:06:30	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	
+Your balance is: $30.0                            
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:06:31	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:06:34	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 22:06:42	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 22:06:47	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:06:47	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:06:47	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:06:47	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:06:47	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:06:47	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:06:47	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:06:47	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:06:50	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	
+Your balance is: $40.0                            
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:06:52	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:06:55	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 22:06:58	consoleLog.MenuOptions	Enter Your Customer ID:                            
+{INFO}	17-05-2022 Tuesday EDT 22:07:02	consoleLog.MenuOptions	Do Want Checking or Savings Account?               
+{INFO}	17-05-2022 Tuesday EDT 22:07:06	consoleLog.MenuOptions	Choose an initial Deposit Amount                   
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	Saving account created successfully with a balance of 80.0
+ 
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:07:14	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:07:31	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 22:07:38	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 22:07:45	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:07:45	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:07:45	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:07:45	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:07:45	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:07:45	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:07:45	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:07:45	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:07:50	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	
+Your balance is: $90.0                            
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:07:51	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:08:07	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 22:08:10	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 22:08:17	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:08:17	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:08:17	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:08:17	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:08:17	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:08:17	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:08:17	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:08:17	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:08:25	consoleLog.MenuOptions	Enter An Account#:                                 
+{INFO}	17-05-2022 Tuesday EDT 22:08:26	consoleLog.MenuOptions	How much would you like to deposit                 
+{INFO}	17-05-2022 Tuesday EDT 22:08:34	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:08:34	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:08:34	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:08:34	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:08:34	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:08:34	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:08:34	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:08:34	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:08:36	consoleLog.MenuOptions	What is the Account ID?                            
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	
+Your balance is: $62.0                            
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	
+Customer Options                                  
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	1)Create an Account                                
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	2)Withdraw                                         
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	3)Deposit                                          
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	4)Check Balance                                    
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	5)EXIT                                             
+{INFO}	17-05-2022 Tuesday EDT 22:08:37	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:08:43	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 22:08:43	consoleLog.MenuOptions	                                                   
+{INFO}	17-05-2022 Tuesday EDT 22:08:46	consoleLog.MenuOptions	Enter Your Employee Email:                         
+{INFO}	17-05-2022 Tuesday EDT 22:08:58	consoleLog.MenuOptions	Enter Your Password:                               
+{INFO}	17-05-2022 Tuesday EDT 22:09:03	consoleLog.MenuOptions	
+Welcome Alejandro Zubillaga here are your task for the day 
+{INFO}	17-05-2022 Tuesday EDT 22:09:03	consoleLog.MenuOptions	=======================                            
+{INFO}	17-05-2022 Tuesday EDT 22:09:03	consoleLog.MenuOptions	1)View All Customers                               
+{INFO}	17-05-2022 Tuesday EDT 22:09:03	consoleLog.MenuOptions	2)View All Bank Accounts                           
+{INFO}	17-05-2022 Tuesday EDT 22:09:03	consoleLog.MenuOptions	3)Locate Customer By Email                         
+{INFO}	17-05-2022 Tuesday EDT 22:09:03	consoleLog.MenuOptions	4)Approve customer registration                    
+{INFO}	17-05-2022 Tuesday EDT 22:09:03	consoleLog.MenuOptions	5)EXIT
+                                            
+{INFO}	17-05-2022 Tuesday EDT 22:09:13	consoleLog.MenuOptions	
+Thank You For Visiting Zubi Bank, have a nice day!
+ 
+{INFO}	17-05-2022 Tuesday EDT 22:09:13	consoleLog.MenuOptions	                                                   
