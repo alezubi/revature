@@ -45,7 +45,7 @@ public class EmployeeAdd extends HttpServlet {
         if (result) {
             out.println("<h1> Employee Saved</h1>");
             System.out.println("employee saved");
-            request.getRequestDispatcher("index.html").include(request,response);
+            request.getRequestDispatcher("manager_i.html").include(request,response);
         } else {
             System.out.println("something went wrong");
         }

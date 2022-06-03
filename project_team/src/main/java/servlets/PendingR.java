@@ -21,9 +21,7 @@ public class PendingR extends HttpServlet {
         PrintWriter out = response.getWriter();
 
 
-        request.getRequestDispatcher("navbar.html").include(request, response);
-
-
+        request.getRequestDispatcher("managernavbar.html").include(request, response);
         // get employees
         List<Employee> employeeList = new ArrayList<>();
         EmployeeDao dao = EmployeeDaoFactory.getEmployeeDao();
@@ -52,5 +50,8 @@ public class PendingR extends HttpServlet {
         }
         out.println("<h3><a href="+"resolved-employees.html"+"#"+">View Approved Employees</a></h3>");
         out.println("<h3><a href="+"employee-list.html"+">View All Employees </a></h3>");
+        out.println("<h3><a href="+"manager_i.html"+">GO TO MANAGER HOME PAGE </a></h3>");
+
+
     }
 }

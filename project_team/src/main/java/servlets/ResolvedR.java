@@ -20,9 +20,7 @@ public class ResolvedR extends HttpServlet {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
 
-
-        request.getRequestDispatcher("navbar.html").include(request, response);
-
+        request.getRequestDispatcher("managernavbar.html").include(request, response);
         // get employees
         List<Employee> employeeList = new ArrayList<>();
         EmployeeDao dao = EmployeeDaoFactory.getEmployeeDao();
@@ -52,5 +50,6 @@ public class ResolvedR extends HttpServlet {
 
         out.println("<h3><a href="+"pending-employees.html"+"#"+">View Pending Employees</a></h3>");
         out.println("<h3><a href="+"employee-list.html"+">View All Employees </a></h3>");
+        out.println("<h3><a href="+"manager_i.html"+">GO TO MANAGER HOME PAGE </a></h3>");
     }
 }

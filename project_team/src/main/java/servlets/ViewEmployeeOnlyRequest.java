@@ -18,7 +18,7 @@ public class ViewEmployeeOnlyRequest extends HttpServlet {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
 
-        request.getRequestDispatcher("navbar.html").include(request, response);//
+        request.getRequestDispatcher("managernavbar.html").include(request, response);
 
 
         int id = Integer.parseInt(request.getParameter("id"));
@@ -37,9 +37,10 @@ public class ViewEmployeeOnlyRequest extends HttpServlet {
 
             out.println("something went wrong");
 
-            request.getRequestDispatcher("index.html").include(request, response);
 
         } else {
+
+
 
             out.println("<h1>The reimbursement requests of a specific employee:" + employee2.getName() + "</h1>");
             out.println("<h2>Email:" + employee2.getEmail() + "</h2>");
@@ -48,8 +49,11 @@ public class ViewEmployeeOnlyRequest extends HttpServlet {
             out.println("<h2>Receipt_type:" + employee2.getReceipt_type() + "</h2>");
             out.println("<h2>Amount:" + employee2.getAmount() + "$" + "</h2>");
 
-            out.println("<h3><a href=" + "update-info.html" + "#" + ">CHANGE SOME INFORMATION</a></h3>");
+//            out.println("<h3><a href=" + "update-info.html" + "#" + ">CHANGE SOME INFORMATION</a></h3>");
             out.println("<h3><a href=" + "approve-disapprove.html" + ">APPROVE IT</a></h3>");
+            out.println("<h3><a href="+"resolved-employees.html"+"#"+">View Approved Employees</a></h3>");
+            out.println("<h3><a href="+"pending-employees.html"+"#"+">View Approved Employees</a></h3>");
+            out.println("<h3><a href="+"manager_i.html"+">GO TO MANAGER HOME PAGE </a></h3>");
 
         }
 

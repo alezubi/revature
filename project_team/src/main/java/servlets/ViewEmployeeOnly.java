@@ -20,7 +20,7 @@ public class ViewEmployeeOnly extends HttpServlet {
             response.setContentType("text/html");
             PrintWriter out = response.getWriter();
 
-            request.getRequestDispatcher("navbar.html").include(request, response);//
+            request.getRequestDispatcher("navbar.html").include(request,response);
 
 
             int id = Integer.parseInt(request.getParameter("id"));
@@ -38,8 +38,8 @@ public class ViewEmployeeOnly extends HttpServlet {
             if ( employee2.getName()==null){
 
                 out.println("something went wrong");
+                out.println("<h3><a href="+"employee_i.html"+">GO TO HOME PAGE </a></h3>");
 
-                request.getRequestDispatcher("index.html").include(request,response);
 
             } else {
 
@@ -53,7 +53,8 @@ public class ViewEmployeeOnly extends HttpServlet {
                 out.println("<h2>Amount:  "+ employee2.getAmount()+"$"+"</h2>");
 
                 out.println("<h3><a href="+"update-info.html"+"#"+">CHANGE USER INFORMATION </a></h3>");
-                out.println("<h3><a href="+"addrequest.html"+">CHANGE ADD A REQUEST </a></h3>");
+                out.println("<h3><a href="+"employee_i.html"+">GO TO HOME PAGE </a></h3>");
+
 
             }
 

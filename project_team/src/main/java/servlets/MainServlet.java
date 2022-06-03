@@ -18,7 +18,9 @@ public class MainServlet extends HttpServlet {
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
-        request.getRequestDispatcher("navbar.html").include(request, response);//
+
+        request.getRequestDispatcher("managernavbar.html").include(request, response);
+
         // get employees
         List<Employee> employeeList = new ArrayList<>();
         EmployeeDao dao = EmployeeDaoFactory.getEmployeeDao();
@@ -67,5 +69,6 @@ for (Employee employee: employeeList){
 
         out.println("<h3><a href="+"pending-employees.html"+"#"+">View Pending Employees</a></h3>");
         out.println("<h3><a href="+"resolved-employees.html"+"#"+">View Approved Employees</a></h3>");
+        out.println("<h3><a href="+"manager_i.html"+">GO TO MANAGER HOME PAGE </a></h3>");
 
 }}

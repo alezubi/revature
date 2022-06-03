@@ -36,7 +36,7 @@ public class UpdatePassword extends HttpServlet {
         }
         if (result) {
             System.out.println("password updated");
-            request.getRequestDispatcher("index.html").include(request,response);
+            request.getRequestDispatcher("employee_i.html").include(request,response);
             out.println("Employee Updated");
         } else {
             System.out.println("something went wrong");

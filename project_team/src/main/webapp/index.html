@@ -1,87 +1,98 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
+    <title>INDEX</title>
     <meta charset="UTF-8">
-    <title>Home</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+  height: 100%;
+  color: #777;
+  line-height: 1.8;
+}
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  background-image: url('/w3images/parallax1.jpg');
+  min-height: 100%;
+}
+
+/* Second image (Portfolio) */
+.bgimg-2 {
+  background-image: url("/w3images/parallax2.jpg");
+  min-height: 400px;
+}
+
+/* Third image (Contact) */
+.bgimg-3 {
+  background-image: url("/w3images/parallax3.jpg");
+  min-height: 400px;
+}
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1600px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+    min-height: 400px;
+  }
+}
 </style>
+</head>
 <body>
-<div class="header">
-    <h1>Revature Reimbursement</h1>
-    <p>Expense Reimbursement System - Enterprise</p>
-</div>
 
-
-<div class="topnav">
-
-    <a href="index.html">Home</a>
-    <a href="login_user.html">Login</a> |
-    <a href="LogoutServlet">Logout</a> |
-    <a href="ProfileServlet">Profile</a> |
-
-
-</div>
-
-
-
-<div class="row">
-
-    <div class="column side">
-        <h2>Employee Functions</h2>
-        <ol>
-            <li><a href="addrequest.html">Submit</a> a reimbursement request</li>
-            <li><a href="pending-employee.html">View</a> their pending reimbursement requests</li>
-            <li><a href="approved-employee.html">View</a> their resolved reimbursement requests</li>
-            <li><a href="viewEmployeeOnly.html">View</a> their information</li>
-            <li><a href="update-info.html">Update</a> their information.</li>
-            <li><a href="fileuploadservlet.html">Upload</a> an image of his/her receipt</li>
-            <li><a href="update-password.html">Reset</a> password</li>
-
-        </ol>
-        <h2>Manager Functions</h2>
-        <ol>
-
-            <li><a href="pending-employees.html">View</a> all pending requests of all employees.</li>
-            <li><a href="resolved-employees.html">View</a> all resolved requests of all employees</li>
-            <li><a href="employee-list.html">View</a> all employees</li>
-            <li><a href="approve-disapprove.html">Approve/Deny</a> pending reimbursement requests</li>
-            <li><a href="reimbursementRequestsEmployee.html">View</a> reimbursement requests of a specific employee</li>
-        </ol>
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+    <div class="w3-bar" id="myNavbar">
+        <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+            <i class="fa fa-bars"></i>
+        </a>
+        <a href="index.html" class="w3-bar-item w3-button">HOME</a>
+        <a href="login_user.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> Login</a>
+        <a href="login_user.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i>Manager Login</a>
+        <a href="index.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> By Alejandro Zubillaga and Yeison Bello</a>
+        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
+            <i class="fa fa-search"></i>
+        </a>
     </div>
 
-    <div class="column middle">
-        <h2>Setting Spending Limits and Reimbursement Caps</h2>
-        <p>Spending limits allow for proper budgeting and help guide employees as to the types of acceptable expenses. Limits can be capped on a per-diem rate or an annual amount, such as tuition reimbursement for a certain number of classes. In some cases, current tax law or government standards can be used to set limits.
+</div>
 
-            If employees travel as part of their job, the company can use certain government-set rates to reimburse travel costs. Many employers reimburse employees for their business driving, for example. If the reimbursement is done under an accountable plan up to the IRS standard mileage rate, there is no taxable compensation reportable to employees or subject to payroll taxes. The mileage rate for 2022 is 58.5 cents per mile (up from 56.0 cents in 2021).</p>
-        <br>
-        <p>In general, reimbursements for moving expenses are no longer excludable from gross income for the employee or deductible by the company. They are now a taxable fringe benefit subject to payroll taxes.
+<!-- First Parallax Image with Logo Text -->
+<div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
+    <div class="w3-display-middle" style="white-space:nowrap;">
+        <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">MY <span class="w3-hide-small">PROJECT</span> 1</span>
+    </div>
+</div>
 
-            Other common employee reimbursements where spending limits are added include:</p>
 
-        <p>Cell phone expenses. These expenses, when required for one's job, can also be reimbursed by employers. Provide employees with a company cell phone, or allow them to select and pay for their own cell phone and be reimbursed. The company may opt to reimburse a set amount to each individual that would equal a common company plan.</p>
-        <p>Car expenses. Various approaches can include the use of a set vehicle allowance versus reimbursing actual mileage or a combination of both. There are tax differences in these methods that you should carefully assess prior to selecting one or the other.</p>
-        <p>Tuition reimbursement. This can be limited to a certain number of classes or a dollar amount each year.</p>
-        <p>Out-of-town meals. These can be capped via a daily per-diem rate, which would allow employees the discretion of how much to spend on each individual meal. Extra meal costs above the per diem would be out of pocket for the employee.</p>
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
+    <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+    <div class="w3-xlarge w3-section">
+        <i class="fa fa-facebook-official w3-hover-opacity"></i>
+        <i class="fa fa-instagram w3-hover-opacity"></i>
+        <i class="fa fa-snapchat w3-hover-opacity"></i>
+        <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+        <i class="fa fa-twitter w3-hover-opacity"></i>
+        <i class="fa fa-linkedin w3-hover-opacity"></i>
     </div>
 
+</footer>
 
-    <h2>Email Functions</h2>
-    <ol>
-
-        <li><a href="add-employee.html">Register</a> an employee and send an email to that employee with his credentials.</li>
-        <!--<li><a href=""></a></li>-->
-
-
-    </ol>
-</div>
-
-</div>
-
-<div class="footer">
-    <p>Expense Reimbursement System - Enterprise</p>
-</div>
 </body>
 </html>

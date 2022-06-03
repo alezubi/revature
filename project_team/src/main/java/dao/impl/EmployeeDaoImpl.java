@@ -135,7 +135,7 @@ employees.add(employee);
     @Override
     public List<Employee> getPending() throws SQLException {
         List<Employee> employees = new ArrayList<>();
-        String sql = "select * from employee where status = 'PENDING' ";
+        String sql = "select * from employee where status = 'pending' ";
         Statement statement = connection.createStatement();
         ResultSet resultSet = statement.executeQuery(sql);
         while ( resultSet.next()){
@@ -193,8 +193,8 @@ employees.add(employee);
 
     @Override
     public boolean SubmitRequest(Employee employee) throws SQLException {
-//        String sql = " update employee set name = ? , email = ? , password = ?  where id = ? ";
-        String sql = " update employee set amount = ?, set receipt_type = ? where email = ? ";
+        String sql = " update employee set amount=? ,receipt_type=?, status='pending' where id =? ";
+        //String sql = " update employee set amount= ?, set receipt_type = ? , set status = 'PENDING' where email = ? ";
         PreparedStatement preparedStatement = connection.prepareStatement(sql);
         preparedStatement.setInt(1, employee.getAmount());
         preparedStatement.setString(2, employee.getReceipt_type());

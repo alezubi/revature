@@ -23,10 +23,12 @@ public class SubmitRequest extends HttpServlet {
         String receipt_type= request.getParameter("receipt_type");
 
 
+
         Employee employee = new Employee();
         employee.setId(id);
         employee.setAmount(amount);
         employee.setReceipt_type(receipt_type);
+
 
         System.out.println(employee.getReceipt_type());
 
@@ -40,7 +42,7 @@ public class SubmitRequest extends HttpServlet {
         if (result) {
             System.out.println("employee saved");
             out.println("Request Submitted");
-            request.getRequestDispatcher("index.html").include(request,response);
+            request.getRequestDispatcher("employee_i.html").include(request,response);
         } else {
             System.out.println("something went wrong");
         }

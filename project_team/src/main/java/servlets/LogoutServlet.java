@@ -22,5 +22,6 @@ public class LogoutServlet extends HttpServlet {
         response.addCookie(cookie1);
 
         out.println("you are logged out successfully");
+        out.println("<h3><a href="+"index.html"+">GO TO HOME PAGE </a></h3>");
     }
 }

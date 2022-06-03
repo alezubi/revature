@@ -56,6 +56,8 @@ public class PendingHistory extends HttpServlet {
 
         }
 
+        out.println("<h3><a href="+"employee_i.html"+">GO TO HOME PAGE </a></h3>");
+
         request.getRequestDispatcher("footer.html").include(request,response);
     }
 
