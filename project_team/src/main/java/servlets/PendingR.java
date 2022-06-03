@@ -50,5 +50,7 @@ public class PendingR extends HttpServlet {
             out.println("</tr>");
 
         }
+        out.println("<h3><a href="+"resolved-employees.html"+"#"+">View Approved Employees</a></h3>");
+        out.println("<h3><a href="+"employee-list.html"+">View All Employees </a></h3>");
     }
 }

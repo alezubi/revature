@@ -65,5 +65,7 @@ for (Employee employee: employeeList){
 
 }
 
-out.close();
+        out.println("<h3><a href="+"pending-employees.html"+"#"+">View Pending Employees</a></h3>");
+        out.println("<h3><a href="+"resolved-employees.html"+"#"+">View Approved Employees</a></h3>");
+
 }}

@@ -7,4 +7,4 @@ name varchar(255),
 password varchar(255),
 receipt_type varchar(255),
 status varchar(20) DEFAULT 'PENDING',
-account integer);
+amount integer);

@@ -238,4 +238,48 @@ employees.add(employee);
         return employee;
     }
 
+    @Override
+
+    public boolean addRequest(Employee employee) throws SQLException {
+
+        String sql = " update employee set amount=? ,receipt_type=? where id =? ";
+        PreparedStatement preparedStatement = (PreparedStatement)connection.prepareStatement(sql);
+        preparedStatement.setString(1, String.valueOf(employee.getAmount()));
+        preparedStatement.setString(2, employee.getReceipt_type());
+        preparedStatement.setString(3, String.valueOf(employee.getId()));
+
+        int count = preparedStatement.executeUpdate();
+        if(count > 0 ) {
+            System.out.println("request saved");
+            return true;
+        }else {
+            System.out.println("error ");
+            return false;
+        }
+    }
+
+    @Override
+    public Employee getEmployee(Employee employee) throws SQLException {
+
+
+        int id = employee.getId();
+
+        PreparedStatement preparedStatement = (PreparedStatement) connection.prepareStatement(" select * from employee where id = ?");
+
+        preparedStatement.setInt(1,id);
+        ResultSet resultSet = preparedStatement.executeQuery();
+
+        while ( resultSet.next()){
+            employee.setId(resultSet.getInt("id"));
+            employee.setEmail(resultSet.getString("email"));
+            employee.setName(resultSet.getString("name"));
+            employee.setPassword(resultSet.getString("password"));
+            employee.setReceipt_type(resultSet.getString("receipt_type"));
+            employee.setStatus(resultSet.getString("status"));
+            employee.setAmount(resultSet.getInt("amount"));
+        }
+        return employee;
+    }
+
+
 }

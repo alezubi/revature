@@ -68,8 +68,10 @@ public class login extends HttpServlet {
             out.println("<h2>Id:  "+ employee2.getId()+"</h2>");
             out.println("<h2>Name:  "+ employee2.getName()+"</h2>");
             out.println("<h2>Password:  "+ employee2.getPassword()+"</h2>");
+
+
             out.println("<h3><a href="+"update-info.html"+"#"+">CHANGE USER INFORMATION </a></h3>");
-           // out.println("<h3><a href="+"#"+">CHANGE ADD A REQUEST </a></h3>");
+            out.println("<h3><a href="+"addrequest.html"+">CHANGE ADD A REQUEST </a></h3>");
 
         }
 

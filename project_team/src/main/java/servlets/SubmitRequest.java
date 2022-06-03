@@ -13,37 +13,37 @@ import java.io.PrintWriter;
 import java.sql.SQLException;
 
 public class SubmitRequest extends HttpServlet {
-    public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
+    public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
 
 
-        String email = request.getParameter("email");
+        int id = Integer.parseInt(request.getParameter("id"));
+       int amount = Integer.parseInt(request.getParameter("amount"));
+        String receipt_type= request.getParameter("receipt_type");
 
-        String receipt_type = request.getParameter("receipt_type");
-
-        int amount = Integer.parseInt(request.getParameter("amount"));
 
         Employee employee = new Employee();
-
-        employee.setEmail(email);
-        employee.setReceipt_type(receipt_type);
+        employee.setId(id);
         employee.setAmount(amount);
+        employee.setReceipt_type(receipt_type);
+
+        System.out.println(employee.getReceipt_type());
 
         EmployeeDao dao = EmployeeDaoFactory.getEmployeeDao();
-
         boolean result = false;
         try {
-            result = dao.SubmitRequest(employee);// porque retorna un objecto tipo boolean
+            result = dao.addRequest(employee);// porque retorna un objecto tipo boolean
         } catch (SQLException e) {
             e.printStackTrace();
         }
         if (result) {
-            System.out.println("Request Submitted");
+            System.out.println("employee saved");
+            out.println("Request Submitted");
             request.getRequestDispatcher("index.html").include(request,response);
-            out.println("Employee Updated");
         } else {
             System.out.println("something went wrong");
         }
     }
+
 }

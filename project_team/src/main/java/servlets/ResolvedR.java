@@ -49,5 +49,8 @@ public class ResolvedR extends HttpServlet {
             out.println("</tr>");
 
         }
+
+        out.println("<h3><a href="+"pending-employees.html"+"#"+">View Pending Employees</a></h3>");
+        out.println("<h3><a href="+"employee-list.html"+">View All Employees </a></h3>");
     }
 }
