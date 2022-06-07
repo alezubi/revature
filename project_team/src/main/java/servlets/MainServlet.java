@@ -35,9 +35,7 @@ public class MainServlet extends HttpServlet {
         out.println("<th>Name   ||</th>");
         out.println("<th>    Email||</th>");
         out.println(" <th>     Password    ||</th>");
-        out.println("<th>Status   ||</th>");
-        out.println("<th>    Receipt_type||</th>");
-        out.println(" <th>     Account </th>");
+
         out.println("<br>");
         out.println("--------------------------------------------------------------------------------------------------");
         out.println("<br>");
@@ -55,11 +53,7 @@ for (Employee employee: employeeList){
     out.println("  ||  ");
     out.println("<th>"+ employee.getPassword()+ "</th>");
     out.println("  ||  ");
-    out.println("<th>"+ employee.getStatus()+ "</th>");
-    out.println("  ||  ");
-    out.println("<th>"+ employee.getReceipt_type()+ "</th>");
-    out.println("  ||  ");
-    out.println("<th>"+ employee.getAmount()+ "</th>");
+
     out.println("<br>");
     out.println("<br>");
     out.println("</tr>");

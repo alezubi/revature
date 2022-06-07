@@ -13,7 +13,7 @@ boolean updateEmployee(Employee employee) throws SQLException;
 boolean deleteEmployee(int id) throws SQLException;
 
 Employee updateStatus(Employee employee)throws SQLException;
-List<Employee> getPending() throws SQLException;
+List<Employee> getPending(int id) throws SQLException;
 List<Employee> getApproved() throws SQLException;
 
 boolean updatePassword (Employee employee)throws SQLException;
@@ -24,6 +24,8 @@ boolean addRequest(Employee employee) throws SQLException;
 
 Employee  getPendingHistory(Employee employee) throws SQLException;
 
-Employee  getApprovedHistory(Employee employee) throws SQLException;
- Employee getEmployee(Employee employee) throws SQLException;
+//Employee  getApprovedHistory(Employee employee) throws SQLException;
+ List<Employee> getEmployee(int x) throws SQLException;
+ public List<Employee>  getApprovedHistory(int id) throws SQLException;
+ public List<Employee> getPendingEmployees() throws SQLException;
 }

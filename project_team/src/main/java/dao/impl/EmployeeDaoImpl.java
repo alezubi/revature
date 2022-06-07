@@ -24,14 +24,19 @@ public class EmployeeDaoImpl implements EmployeeDao {
         Statement statement = connection.createStatement();
         ResultSet resultSet = statement.executeQuery(sql);
         while ( resultSet.next()){
-            int id = resultSet.getInt(1);
-            String name = resultSet.getString(2);
-            String email = resultSet.getString(3);
-            String password = resultSet.getString(4);
-            String receipt_type = resultSet.getString(5);
-            String status = resultSet.getString(6);
-            int amount = resultSet.getInt(7);
-            Employee employee = new Employee(id, name , email, password , receipt_type , status , amount);
+
+            int id = resultSet.getInt("id");
+            String name = resultSet.getString("name");
+            String email = resultSet.getString("email");
+            String password = resultSet.getString("password");
+
+            Employee employee = new Employee();
+
+            employee.setId(id);
+            employee.setName(name);
+            employee.setEmail(email);
+            employee.setPassword(password);
+
 employees.add(employee);
         }
         return employees;
@@ -39,19 +44,28 @@ employees.add(employee);
 
     @Override
     public Employee getEmployeeById(int empId) throws SQLException {
-        Employee employee = new Employee();
-        String sql = " select * from employee where id = "+ empId;
-        Statement statement = connection.createStatement();
-        ResultSet resultSet = statement.executeQuery(sql);
+        Employee employee= new Employee();
+        String sql = " select * from employee where id = ?";
+
+        PreparedStatement preparedStatement = connection.prepareStatement(sql);
+        preparedStatement.setString(1, String.valueOf(empId));
+
+
+        ResultSet resultSet = preparedStatement.executeQuery();
+
         resultSet.next();
         if (resultSet!=null){
-            int id = resultSet.getInt(1);
-            String name = resultSet.getString(2);
-            String email = resultSet.getString(3);
-            String password = resultSet.getString(4);
-            String receipt_type = resultSet.getString(5);
-            String status = resultSet.getString(6);
-            int amount = resultSet.getInt(7);
+
+
+            int id = resultSet.getInt("id");
+            String name = resultSet.getString("name");
+            String email = resultSet.getString("email");
+            String password = resultSet.getString("password");
+
+            employee.setId(id);
+            employee.setName(name);
+            employee.setEmail(email);
+            employee.setPassword(password);
         }
         return employee;
     }
@@ -114,9 +128,9 @@ employees.add(employee);
 
     @Override
     public  Employee updateStatus(Employee employee) throws SQLException {
-        String sql = " update employee set status = 'approved' where id = ? ";
+        String sql = " update requests set status ='approved' where request_id = ? ";
         PreparedStatement preparedStatement = connection.prepareStatement(sql);
-        preparedStatement.setInt(1, employee.getId());
+        preparedStatement.setInt(1, employee.getRequest_id());
 
         int count = preparedStatement.executeUpdate();
         if (count > 0) {
@@ -133,41 +147,110 @@ employees.add(employee);
     }
 
     @Override
-    public List<Employee> getPending() throws SQLException {
+    public List<Employee> getPending(int x) throws SQLException {
         List<Employee> employees = new ArrayList<>();
-        String sql = "select * from employee where status = 'pending' ";
-        Statement statement = connection.createStatement();
-        ResultSet resultSet = statement.executeQuery(sql);
-        while ( resultSet.next()){
-            int id = resultSet.getInt(1);
+        String sql = "select * from requests where status ='pending' and id = ? ";
 
-            String email = resultSet.getString(2);
-            String name = resultSet.getString(3);
-            String password = resultSet.getString(4);
-            String receipt_type = resultSet.getString(5);
-            String status = resultSet.getString(6);
-            int amount = resultSet.getInt(7);
-            Employee employee = new Employee(id, email , name, password , receipt_type , status , amount);
+        PreparedStatement preparedStatement = connection.prepareStatement(sql);
+        preparedStatement.setInt(1, x);
+
+
+        ResultSet resultSet = preparedStatement.executeQuery();
+        while ( resultSet.next()){
+
+            int id = resultSet.getInt("id");
+            String email = resultSet.getString("email");
+            String name = resultSet.getString("name");
+            String receipt_type = resultSet.getString("receipt_type");
+            String status = resultSet.getString("status");
+            int amount = resultSet.getInt("amount");
+            int request_id= resultSet.getInt("request_id");
+            //String date = resultSet.getString("date");
+
+            Employee employee = new Employee(); //(id, email , name , receipt_type , status, amount, date);
+            employee.setId(id);
+            employee.setEmail(email);
+            employee.setName(name);
+            employee.setReceipt_type(receipt_type);
+            employee.setStatus(status);
+            employee.setAmount(amount);
+            employee.setRequest_id(request_id);
+
+
+
+
             employees.add(employee);
         }
         return employees;
     }
 
+
+    @Override
+    public List<Employee> getPendingEmployees() throws SQLException {
+        List<Employee> employees = new ArrayList<>();
+        String sql = "select * from requests where status ='pending'";
+
+
+        Statement statement = connection.createStatement();
+        ResultSet resultSet = statement.executeQuery(sql);
+
+
+        while ( resultSet.next()){
+
+            int id = resultSet.getInt("id");
+            String email = resultSet.getString("email");
+            String name = resultSet.getString("name");
+            String receipt_type = resultSet.getString("receipt_type");
+            String status = resultSet.getString("status");
+            int amount = resultSet.getInt("amount");
+            int request_id= resultSet.getInt("request_id");
+            //String date = resultSet.getString("date");
+
+            Employee employee = new Employee(); //(id, email , name , receipt_type , status, amount, date);
+            employee.setId(id);
+            employee.setEmail(email);
+            employee.setName(name);
+            employee.setReceipt_type(receipt_type);
+            employee.setStatus(status);
+            employee.setAmount(amount);
+            employee.setRequest_id(request_id);
+
+
+
+
+            employees.add(employee);
+        }
+        return employees;
+    }
+
+
+
     public List<Employee> getApproved() throws SQLException {
         List<Employee> employees = new ArrayList<>();
-        String sql = "select * from employee where status = 'approved' ";
+        String sql = "select * from requests where status = 'approved' ";
         Statement statement = connection.createStatement();
         ResultSet resultSet = statement.executeQuery(sql);
         while ( resultSet.next()){
-            int id = resultSet.getInt(1);
 
-            String email = resultSet.getString(2);
-            String name = resultSet.getString(3);
-            String password = resultSet.getString(4);
-            String receipt_type = resultSet.getString(5);
-            String status = resultSet.getString(6);
-            int amount = resultSet.getInt(7);
-            Employee employee = new Employee(id, email , name, password , receipt_type , status , amount);
+            int id = resultSet.getInt("id");
+            String email = resultSet.getString("email");
+            String name = resultSet.getString("name");
+            String receipt_type = resultSet.getString("receipt_type");
+            String status = resultSet.getString("status");
+            int amount = resultSet.getInt("amount");
+            int request_id= resultSet.getInt("request_id");
+            //Employee employee = new Employee(id, email , name, password , receipt_type , status , amount);
+
+            Employee employee = new Employee();
+
+            employee.setId(id);
+            employee.setEmail(email);
+            employee.setName(name);
+            employee.setReceipt_type(receipt_type);
+            employee.setStatus(status);
+            employee.setAmount(amount);
+            employee.setReceipt_type(String.valueOf(request_id));
+
             employees.add(employee);
         }
         return employees;
@@ -198,7 +281,7 @@ employees.add(employee);
         PreparedStatement preparedStatement = connection.prepareStatement(sql);
         preparedStatement.setInt(1, employee.getAmount());
         preparedStatement.setString(2, employee.getReceipt_type());
-        preparedStatement.setString(3, employee.getEmail());
+        preparedStatement.setString(3, String.valueOf(employee.getId()));
 
 
 
@@ -242,11 +325,15 @@ employees.add(employee);
 
     public boolean addRequest(Employee employee) throws SQLException {
 
-        String sql = " update employee set amount=? ,receipt_type=? where id =? ";
+        String sql = " insert into requests(amount ,receipt_type, id, name , email , status) values (?,?,?, ?,?, 'pending') ";
         PreparedStatement preparedStatement = (PreparedStatement)connection.prepareStatement(sql);
         preparedStatement.setString(1, String.valueOf(employee.getAmount()));
         preparedStatement.setString(2, employee.getReceipt_type());
         preparedStatement.setString(3, String.valueOf(employee.getId()));
+        preparedStatement.setString(4, employee.getName());
+        preparedStatement.setString(5, employee.getEmail());
+
+
 
         int count = preparedStatement.executeUpdate();
         if(count > 0 ) {
@@ -258,27 +345,67 @@ employees.add(employee);
         }
     }
 
+//    @Override
+//    public Employee getEmployee(Employee employee) throws SQLException {
+//
+//
+//        int id = employee.getId();
+//
+//        PreparedStatement preparedStatement = (PreparedStatement) connection.prepareStatement(" select * from requests where id = ?");
+//
+//        preparedStatement.setInt(1,id);
+//        ResultSet resultSet = preparedStatement.executeQuery();
+//
+//        while ( resultSet.next()){
+//            employee.setId(resultSet.getInt("id"));
+//            employee.setEmail(resultSet.getString("email"));
+//            employee.setName(resultSet.getString("name"));
+//            employee.setPassword(resultSet.getString("password"));
+//            employee.setReceipt_type(resultSet.getString("receipt_type"));
+//            employee.setStatus(resultSet.getString("status"));
+//            employee.setAmount(resultSet.getInt("amount"));
+//        }
+//        return employee;
+//    }
+
     @Override
-    public Employee getEmployee(Employee employee) throws SQLException {
+    public List<Employee> getEmployee(int x) throws SQLException {
 
 
-        int id = employee.getId();
+        List<Employee> employees = new ArrayList<>();
+        String sql = "select * from requests where id = ? ";
 
-        PreparedStatement preparedStatement = (PreparedStatement) connection.prepareStatement(" select * from employee where id = ?");
+        PreparedStatement preparedStatement = connection.prepareStatement(sql);
+        preparedStatement.setInt(1, x);
 
-        preparedStatement.setInt(1,id);
+
         ResultSet resultSet = preparedStatement.executeQuery();
-
         while ( resultSet.next()){
-            employee.setId(resultSet.getInt("id"));
-            employee.setEmail(resultSet.getString("email"));
-            employee.setName(resultSet.getString("name"));
-            employee.setPassword(resultSet.getString("password"));
-            employee.setReceipt_type(resultSet.getString("receipt_type"));
-            employee.setStatus(resultSet.getString("status"));
-            employee.setAmount(resultSet.getInt("amount"));
+
+            int id = resultSet.getInt("id");
+            String email = resultSet.getString("email");
+            String name = resultSet.getString("name");
+            String receipt_type = resultSet.getString("receipt_type");
+            String status = resultSet.getString("status");
+            int amount = resultSet.getInt("amount");
+            int request_id= resultSet.getInt("request_id");
+            //String date = resultSet.getString("date");
+
+            Employee employee = new Employee(); //(id, email , name , receipt_type , status, amount, date);
+            employee.setId(id);
+            employee.setEmail(email);
+            employee.setName(name);
+            employee.setReceipt_type(receipt_type);
+            employee.setStatus(status);
+            employee.setAmount(amount);
+            employee.setRequest_id(request_id);
+
+
+
+
+            employees.add(employee);
         }
-        return employee;
+        return employees;
     }
 
     @Override
@@ -302,7 +429,7 @@ employees.add(employee);
 
     }
 
-    @Override
+  /*  @Override
     public  Employee  getApprovedHistory(Employee employee) throws SQLException{
 
         String sql = "select * from employee where status='approved' and id=?";
@@ -321,7 +448,44 @@ employees.add(employee);
         }
         return employee;
 
-    }
+    }*/
 
+
+
+
+    public List<Employee>  getApprovedHistory(int x) throws SQLException {
+        List<Employee> employees = new ArrayList<>();
+        String sql = "select * from requests where status ='approved' and id = ? ";
+
+        PreparedStatement preparedStatement = connection.prepareStatement(sql);
+        preparedStatement.setInt(1, x);
+
+
+        ResultSet resultSet = preparedStatement.executeQuery();
+        while ( resultSet.next()){
+
+            int id = resultSet.getInt("id");
+            String email = resultSet.getString("email");
+            String name = resultSet.getString("name");
+            String receipt_type = resultSet.getString("receipt_type");
+            String status = resultSet.getString("status");
+            int amount = resultSet.getInt("amount");
+            //String date = resultSet.getString("date");
+
+            Employee employee = new Employee(); //(id, email , name , receipt_type , status, amount, date);
+            employee.setId(id);
+            employee.setEmail(email);
+            employee.setName(name);
+            employee.setReceipt_type(receipt_type);
+            employee.setStatus(status);
+            employee.setAmount(amount);
+
+
+
+
+            employees.add(employee);
+        }
+        return employees;
+    }
 
 }

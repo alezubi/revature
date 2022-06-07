@@ -24,12 +24,12 @@ public class LoginServlet extends HttpServlet {
         if (username.equals("admin") && password.equals("123")) {
             // success
             out.println("You are successfully logged In");
-            out.println("<br>Welcome " + username);
+            out.println("<br>Welcome admin");
 
-            Cookie cookie = new Cookie("username", username);
-            response.addCookie(cookie);
-            Cookie cookie1 = new Cookie("password", password);
-            response.addCookie(cookie1);
+//            Cookie cookie = new Cookie("username", username);
+//            response.addCookie(cookie);
+//            Cookie cookie1 = new Cookie("password", password);
+//            response.addCookie(cookie1);
         } else {
             // failed
             out.println("sorry! invalid details");

@@ -16,7 +16,33 @@ public class Employee {
     private  String status ;
 
     private int amount ;
+
+
+
+    private int request_id;
+
+
+
+
+
     public Employee(){}
+
+
+
+    public Employee(int id, String email, String name, String password, String receipt_type, String status, int amount,int request_id) {
+        this.id = id;
+        this.name = name;
+        this.email = email;
+        this.password=password;
+        this.receipt_type= receipt_type;
+        this.status= status;
+        this.amount=amount;
+        this.request_id=request_id;
+    }
+
+
+
+
 
     public Employee(int id, String email, String name, String password, String receipt_type, String status, int amount) {
         this.id = id;
@@ -82,5 +108,12 @@ public class Employee {
 
     public void setAmount(int amount) {
         this.amount = amount;
+    }
+    public int getRequest_id() {
+        return request_id;
+    }
+
+    public void setRequest_id(int request_id) {
+        this.request_id = request_id;
     }
 }

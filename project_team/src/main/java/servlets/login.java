@@ -9,6 +9,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.SQLException;
@@ -53,10 +54,10 @@ public class login extends HttpServlet {
 
       if (email.equals("admin@gmail.com") && password.equals("123")) {
 
-            out.println("<h1>Welcome  "+ employee2.getName()+"</h1>");
+            out.println("<h1>Welcome Admin"+"</h1>");
             out.println("<h2>Email:  "+ employee2.getEmail()+"</h2>");
             out.println("<h2>Id:  "+ employee2.getId()+"</h2>");
-            out.println("<h2>Name:  "+ employee2.getName()+"</h2>");
+            out.println("<h2>Name: Admin "+"</h2>");
             out.println("<h2>Password:  "+ employee2.getPassword()+"</h2>");
 
             out.println("<h3><a href="+"update-info.html"+"#"+">CHANGE USER INFORMATION </a></h3>");
@@ -78,6 +79,47 @@ public class login extends HttpServlet {
             out.println("<h2>Id:  "+ employee2.getId()+"</h2>");
             out.println("<h2>Name:  "+ employee2.getName()+"</h2>");
             out.println("<h2>Password:  "+ employee2.getPassword()+"</h2>");
+
+
+                               //seccion
+          HttpSession seccion = request.getSession();
+          seccion.setAttribute("id",employee2.getId());
+          seccion.setAttribute("name",employee2.getName());
+          seccion.setAttribute("email",employee2.getEmail());
+
+
+
+
+
+
+
+
+
+                            ///con esto mandamos un objeecto tipo dispacher atro servlet
+
+        //  request.setAttribute("id", employee2.getId());
+        //  request.setAttribute("name", employee2.getName());
+        // request.setAttribute("password", employee2.getPassword());
+        // request.setAttribute("receipt_type", employee2.getReceipt_type());
+       //   request.setAttribute("status", employee2.getStatus());
+         // request.setAttribute("amount", employee2.getAmount());
+
+        //  RequestDispatcher rd = request.getRequestDispatcher("ApprovedHistory");
+         /// rd.forward(request,response);
+
+
+
+
+          // request.getSession().setAttribute("ids", employee2.getId());
+         // request.getSession().setAttribute("names", employee2.getName());
+         // request.getSession().setAttribute("passwords", employee2.getPassword());
+        //  request.getSession().setAttribute("receipt_types", employee2.getReceipt_type());
+         // request.getSession().setAttribute("status", employee2.getStatus());
+          //request.getSession().setAttribute("amounts", employee2.getAmount());
+
+
+
+
 
 
             out.println("<h3><a href="+"update-info.html"+"#"+">CHANGE USER INFORMATION </a></h3>");

@@ -8,6 +8,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.SQLException;
@@ -23,14 +24,21 @@ public class SubmitRequest extends HttpServlet {
         String receipt_type= request.getParameter("receipt_type");
 
 
-
         Employee employee = new Employee();
         employee.setId(id);
         employee.setAmount(amount);
         employee.setReceipt_type(receipt_type);
 
 
-        System.out.println(employee.getReceipt_type());
+
+        HttpSession session = request.getSession();
+        String name =(String)session.getAttribute("name");
+        String email =(String)session.getAttribute("email");
+
+        employee.setName(name);
+        employee.setEmail(email);
+
+        System.out.println(employee.getReceipt_type()+"    "+employee.getName()+"    "+employee.getEmail());
 
         EmployeeDao dao = EmployeeDaoFactory.getEmployeeDao();
         boolean result = false;

@@ -26,7 +26,7 @@ public class PendingR extends HttpServlet {
         List<Employee> employeeList = new ArrayList<>();
         EmployeeDao dao = EmployeeDaoFactory.getEmployeeDao();
         try {
-            employeeList = dao.getPending();
+            employeeList = dao.getPendingEmployees();///ARREGLAR ESTP
         } catch (SQLException e) {
             e.printStackTrace();
         }
@@ -45,6 +45,8 @@ public class PendingR extends HttpServlet {
             out.println("<td>STATUS: " + employee.getStatus() + "  </td>");
             out.println("  ||  ");
             out.println("<td>AMOUNT: " + employee.getAmount() + "  </td>");
+            out.println("<td>:REQUEST_ID: " + employee.getRequest_id() + "  </td>");
+
             out.println("</tr>");
 
         }

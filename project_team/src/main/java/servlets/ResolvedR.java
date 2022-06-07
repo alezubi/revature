@@ -44,6 +44,7 @@ public class ResolvedR extends HttpServlet {
             out.println("<td>STATUS: " + employee.getStatus() + "  </td>");
             out.println("  ||  ");
             out.println("<td>AMOUNT: " + employee.getAmount() + "  </td>");
+            out.println("<td>REQUEST_ID: " + employee.getReceipt_type() + "  </td>");
             out.println("</tr>");
 
         }
